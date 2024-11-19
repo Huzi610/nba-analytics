@@ -162,3 +162,9 @@ cython_debug/
 *.zip
 
 Fantasy/Caruso/
+*.png
+/player_imgs
+/team_imgs
+*.txt
+/utils/pbp_data
+/2024-25/pbp_data

@@ -1,0 +1,46 @@
+Season,Predicted Champion,Predicted Prob,Actual Champion,Actual Prob,Correct
+1979-80,Boston Celtics,22.85,Los Angeles Lakers,16.34,False
+1980-81,Philadelphia 76ers,31.81,Boston Celtics,29.76,False
+1981-82,Boston Celtics,52.62,Los Angeles Lakers,8.74,False
+1982-83,Los Angeles Lakers,44.05,Philadelphia 76ers,16.52,False
+1983-84,Boston Celtics,50.64,Boston Celtics,50.64,True
+1984-85,Los Angeles Lakers,56.46,Los Angeles Lakers,56.46,True
+1985-86,Los Angeles Lakers,53.44,Boston Celtics,26.88,False
+1986-87,Los Angeles Lakers,57.86,Los Angeles Lakers,57.86,True
+1987-88,Los Angeles Lakers,32.25,Los Angeles Lakers,32.25,True
+1988-89,Detroit Pistons,20.01,Detroit Pistons,20.01,True
+1989-90,Los Angeles Lakers,31.02,Detroit Pistons,11.43,False
+1990-91,Chicago Bulls,29.01,Chicago Bulls,29.01,True
+1991-92,Chicago Bulls,63.49,Chicago Bulls,63.49,True
+1992-93,Phoenix Suns,21.75,Chicago Bulls,8.53,False
+1993-94,Houston Rockets,17.44,Houston Rockets,17.44,True
+1994-95,San Antonio Spurs,43.83,Houston Rockets,1.16,False
+1995-96,Chicago Bulls,55.41,Chicago Bulls,55.41,True
+1996-97,Chicago Bulls,55.04,Chicago Bulls,55.04,True
+1997-98,Chicago Bulls,38.23,Chicago Bulls,38.23,True
+1998-99,Houston Rockets,16.12,San Antonio Spurs,15.65,False
+1999-00,Los Angeles Lakers,52.82,Los Angeles Lakers,52.82,True
+2000-01,San Antonio Spurs,25.62,Los Angeles Lakers,4.72,False
+2001-02,San Antonio Spurs,52.48,Los Angeles Lakers,8.24,False
+2002-03,San Antonio Spurs,31.93,San Antonio Spurs,31.93,True
+2003-04,San Antonio Spurs,27.63,Detroit Pistons,2.28,False
+2004-05,San Antonio Spurs,41.01,San Antonio Spurs,41.01,True
+2005-06,San Antonio Spurs,45.11,Miami Heat,2.96,False
+2006-07,Dallas Mavericks,32.39,San Antonio Spurs,14.5,False
+2007-08,Boston Celtics,39.65,Boston Celtics,39.65,True
+2008-09,Cleveland Cavaliers,33.25,Los Angeles Lakers,23.74,False
+2009-10,Cleveland Cavaliers,23.28,Los Angeles Lakers,7.14,False
+2010-11,San Antonio Spurs,45.16,Dallas Mavericks,5.67,False
+2011-12,San Antonio Spurs,7.82,Miami Heat,6.37,False
+2012-13,Miami Heat,40.21,Miami Heat,40.21,True
+2013-14,Miami Heat,22.3,San Antonio Spurs,20.82,False
+2014-15,Golden State Warriors,51.24,Golden State Warriors,51.24,True
+2015-16,San Antonio Spurs,42.21,Cleveland Cavaliers,5.2,False
+2016-17,Golden State Warriors,64.47,Golden State Warriors,64.47,True
+2017-18,Houston Rockets,29.98,Golden State Warriors,10.8,False
+2018-19,Golden State Warriors,55.15,Toronto Raptors,4.67,False
+2019-20,Los Angeles Lakers,50.45,Los Angeles Lakers,50.45,True
+2020-21,Milwaukee Bucks,25.07,Milwaukee Bucks,25.07,True
+2021-22,Phoenix Suns,49.61,Golden State Warriors,2.76,False
+2022-23,Milwaukee Bucks,26.11,Denver Nuggets,2.77,False
+2023-24,Boston Celtics,29.38,Boston Celtics,29.38,True
